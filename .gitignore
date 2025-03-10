@@ -1,0 +1,6 @@
+# Exclude the files
+.env
+
+# Exclude these directories
+dist/
+
