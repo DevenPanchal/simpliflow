@@ -8,5 +8,3 @@ To start using simpliflow, refer to: https://github.com/DevenPanchal/simpliflow-
 simpliflow package on PyPI: https://pypi.org/project/simpliflow/ 
 
 Read about simpliflow : https://devenpanchal.github.io/simpliflow-website/
-
-Read about simpliflow : https://devenpanchal.github.io/simpliflow-website/
