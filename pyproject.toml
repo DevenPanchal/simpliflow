@@ -9,14 +9,16 @@ version = "0.0.1"
 authors = [
   { name="Deven Panchal", email="devenrpanchal@gmail.com" },
 ]
-description = "A small example package"
+description = "simpliflow:  An Open Source Modular Framework to quickly create, deploy, orchestrate Generative AI Agents and Agentic workflows and integrate into business applications."
 readme = "README.md"
 requires-python = ">=3.8"
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT License",
+    "License :: OSI Approved :: Apache Software License 2.0",
     "Operating System :: OS Independent",
 ]
+
+
 
 dependencies = [
   "anthropic",
@@ -30,5 +32,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/pypa/sampleproject"
-Issues = "https://github.com/pypa/sampleproject/issues"
+Homepage = "https://devenpanchal.github.io/simpliflow-website/"
+Documentation = "https://github.com/DevenPanchal/simpliflow-usage"
+
+
+
+
