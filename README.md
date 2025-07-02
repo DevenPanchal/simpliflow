@@ -9,8 +9,7 @@
 
 This repository https://github.com/DevenPanchal/simpliflow, contains the code for the simpliflow package itself.
 
-To start using simpliflow, refer to: https://github.com/DevenPanchal/simpliflow-usage and install simpliflow using  
-```pip install simpliflow``` 
+To start using simpliflow, install simpliflow using ```pip install simpliflow```  and refer to: https://github.com/DevenPanchal/simpliflow-usage to start creating and running a variety of agentic workflows in seconds.
 
 simpliflow package on PyPI: https://pypi.org/project/simpliflow/ 
 
